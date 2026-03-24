@@ -1,0 +1,8 @@
+IDENTIFICATION DIVISION.
+      PROGRAM-ID. HELLO.
+
+      DATA DIVISION.
+
+      PROCEDURE DIVISION.
+          DISPLAY "Hello from COBOL CI/CD Pipeline!".
+          STOP RUN.
